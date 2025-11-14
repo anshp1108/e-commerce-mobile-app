@@ -1,0 +1,27 @@
+# Flutter / Dart
+.dart_tool/
+build/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins
+.pub-cache/
+ios/Pods/
+[Runner.xcworkspace](http://_vscodecontentref_/10)
+[.gradle](http://_vscodecontentref_/11)
+android/app/*.iml
+
+# Android/IntelliJ/Android Studio
+.idea/
+*.iml
+
+# Xcode
+DerivedData/
+*.xcuserdatad
+*.xcuserstate
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
